@@ -1,9 +1,8 @@
+# This was a failed attempt at making the code better
+
 from PIL import Image
 from itertools import product
 import random
-
-# todo: assymetric
-# "Enter word or number to save image"
 
 # variables
 
